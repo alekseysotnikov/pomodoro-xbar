@@ -6,4 +6,4 @@ Pomodoro timer for [xbar](https://xbarapp.com/) (macOS menu bar) in Babashka
 # Installation
 - [Install Babashka](https://github.com/babashka/babashka#quickstart)
 - [Install xbar](https://github.com/matryer/xbar#install)
-- Copy `pomodoro.1s.clj` to your `xbar` plugin folder
+- Copy `pomodoro.1s.clj` to `xbar` plugin folder `~/Library/Application Support/xbar/plugins`
