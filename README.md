@@ -6,4 +6,4 @@ Pomodoro timer for [SwiftBar](https://github.com/swiftbar/SwiftBar) (macOS menu 
 # Installation
 - [Install Babashka](https://github.com/babashka/babashka#quickstart)
 - [Install SwiftBar](https://github.com/swiftbar/SwiftBar#how-to-get-swiftbar).
-- Copy `pomodoro.1s.clj` to the `Plugin Folder`. With the first launch, Swiftbar will ask you to set the `Plugin Folder`
+- Copy `pomodoro.1s.clj` to the `Plugin Folder`. _With the first launch, Swiftbar will ask you to set the `Plugin Folder`_
